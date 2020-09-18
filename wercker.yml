@@ -15,7 +15,7 @@ build:
     - script:
         name: go get
         code: |
-          go get github.com/xeodou/go-sqlcipher/sqlite3_test
+          go get github.com/fujiawei-dev/go-sqlcipher/sqlite3_test
     # Test the project
     - script:
         name: go test

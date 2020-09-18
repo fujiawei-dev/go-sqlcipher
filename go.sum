@@ -2,8 +2,8 @@ github.com/PuerkitoBio/goquery v1.5.1 h1:PSPBGne8NIUWw+/7vFBV+kG2J/5MOjbzc7154Oa
 github.com/PuerkitoBio/goquery v1.5.1/go.mod h1:GsLWisAFVj4WgDibEWF4pvYnkVQBpKBKeU+7zCJoLcc=
 github.com/andybalholm/cascadia v1.1.0 h1:BuuO6sSfQNFRu1LppgbD25Hr2vLYW25JvxHs5zzsLTo=
 github.com/andybalholm/cascadia v1.1.0/go.mod h1:GsXiBklL0woXo1j/WYWtSYYC4ouU9PqHO0sqidkEA4Y=
-github.com/xeodou/go-sqlcipher v0.0.0-20190224185451-e2b0cbb2d94a h1:Dan/bP5w78V6xPfsFnrBaWO838yN63ldodwqIKam60Q=
-github.com/xeodou/go-sqlcipher v0.0.0-20190224185451-e2b0cbb2d94a/go.mod h1:vxgnuyTPQm6z5pRcHDe/jkd/XzIfvBplp1FGWcUvGus=
+github.com/fujiawei-dev/go-sqlcipher v0.0.0-20190224185451-e2b0cbb2d94a h1:Dan/bP5w78V6xPfsFnrBaWO838yN63ldodwqIKam60Q=
+github.com/fujiawei-dev/go-sqlcipher v0.0.0-20190224185451-e2b0cbb2d94a/go.mod h1:vxgnuyTPQm6z5pRcHDe/jkd/XzIfvBplp1FGWcUvGus=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/net v0.0.0-20180218175443-cbe0f9307d01/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20200202094626-16171245cfb2 h1:CCH4IOTTfewWjGOlSp+zGcjutRKlBEZQ6wTn8ozI/nI=

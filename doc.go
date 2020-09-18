@@ -5,7 +5,7 @@ This works as a driver for database/sql.
 
 Installation
 
-    go get github.com/xeodou/go-sqlcipher
+    go get github.com/fujiawei-dev/go-sqlcipher
 
 Supported Types
 

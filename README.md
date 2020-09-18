@@ -4,10 +4,10 @@ go-sqlcipher
 
 SQLCipher driver conforming to the built-in database/sql interface and using the latest sqlite3 code.
 
-[![GoDoc Reference](https://godoc.org/github.com/xeodou/go-sqlcipher?status.svg)](http://godoc.org/github.com/xeodou/go-sqlcipher)
+[![GoDoc Reference](https://godoc.org/github.com/fujiawei-dev/go-sqlcipher?status.svg)](http://godoc.org/github.com/fujiawei-dev/go-sqlcipher)
 [![Build Status](https://travis-ci.org/xeodou/go-sqlcipher.svg?branch=master)](https://travis-ci.org/xeodou/go-sqlcipher)
 [![Coverage Status](https://coveralls.io/repos/xeodou/go-sqlcipher/badge.svg?branch=master)](https://coveralls.io/r/xeodou/go-sqlcipher?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/xeodou/go-sqlcipher)](https://goreportcard.com/report/github.com/xeodou/go-sqlcipher)
+[![Go Report Card](https://goreportcard.com/badge/github.com/fujiawei-dev/go-sqlcipher)](https://goreportcard.com/report/github.com/fujiawei-dev/go-sqlcipher)
 
 NOTE: v2.0.1 or higher is unfortunatal release. So there are no big changes. And does not provide v2 feature.
 
@@ -87,17 +87,17 @@ To upgrade SQLCipher from 3.x to 4.x, please take a look of:
 
 This package can be installed with the go get command:
 
-    go get github.com/xeodou/go-sqlcipher
+    go get github.com/fujiawei-dev/go-sqlcipher
 
 _go-sqlcipher_ is *cgo* package.
 If you want to build your app using go-sqlcipher, you need gcc.
-However, if you install _go-sqlcipher_ with `go install github.com/xeodou/go-sqlcipher`, you don't need gcc to build your app anymore.
+However, if you install _go-sqlcipher_ with `go install github.com/fujiawei-dev/go-sqlcipher`, you don't need gcc to build your app anymore.
 
 ***Important: because this is a `CGO` enabled package you are required to set the environment variable `CGO_ENABLED=1` and have a `gcc` compile present within your path.***
 
 # API Reference
 
-API documentation can be found here: http://godoc.org/github.com/xeodou/go-sqlcipher
+API documentation can be found here: http://godoc.org/github.com/fujiawei-dev/go-sqlcipher
 
 Examples can be found under the [examples](./_example) directory
 

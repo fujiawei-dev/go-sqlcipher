@@ -10,7 +10,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	_ "github.com/xeodou/go-sqlcipher"
+	_ "github.com/fujiawei-dev/go-sqlcipher"
 )
 
 func main() {
